@@ -24,7 +24,6 @@ Andrea Becerra M.
 <h2>Bibliografia</h2>
 
 <p align="justify">
-Andrea Becerra M.
   https://clan.akamai.steamstatic.com/images/39026134/3964fef8c33f5cc2f23eb363be8a744f87fd52ba.png
   https://www.gamertotal.com.ar/wp-content/uploads/2023/04/yugioh.jpg
   </p>
