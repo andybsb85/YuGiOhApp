@@ -1,0 +1,6 @@
+{
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.scanRepositories": [
+        "E:\\Git\\bin"
+    ]
+}
