@@ -1,4 +1,5 @@
 <h1 align="center"> Proyecto Yu Gi Oh Cards </h1>
+<p>
 
 ##Índice
 
@@ -25,7 +26,7 @@
 * [Licencia](#licencia)
 
 *[Conclusión](#conclusión)
-
+</p>
  <h2>Descripción del Proyecto;</h2>
 
   <p align="left">
