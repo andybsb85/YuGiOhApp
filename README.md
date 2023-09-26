@@ -29,7 +29,7 @@
 
 
 
-<h2Demostración de funciones y aplicaciones</h2>
+<h2>Demostración de funciones y aplicaciones</h2>
 <h2>Tecnologías utilizadas</h2>
 
 <h2>Personas Desarrolladoras del Proyecto</h2>
